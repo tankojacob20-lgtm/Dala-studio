@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { MarketDashboard } from '@/components/MarketDashboard';
 import { SellForm } from '@/components/SellForm';
 import { BuyList } from '@/components/BuyList';
-import { LayoutDashboard, ShoppingBasket, PlusCircle } from 'lucide-react';
+import { LayoutDashboard, ShoppingBasket, CirclePlus } from 'lucide-react';
 import { Toaster } from 'sonner';
 
 const App = () => {
